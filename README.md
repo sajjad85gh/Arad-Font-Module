@@ -1,4 +1,4 @@
-# Arad-Font Magisk Module
+# Arad Font Magisk Module
 
 This **Magisk / KSU** module allows you to apply the Arad-Font font to your Android device's system. Magisk is a powerful tool that allows for systemless modification of your Android device.
 
