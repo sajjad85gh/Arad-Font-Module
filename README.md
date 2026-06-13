@@ -1,6 +1,9 @@
-# Vazirmatn-regular Magisk Module
+# Arad-Font Magisk Module
 
 This **Magisk / KSU** module allows you to apply the Arad-Font font to your Android device's system. Magisk is a powerful tool that allows for systemless modification of your Android device.
+
+## Preview
+![Arad Font Screenshot](https://github.com/MohamadDarvishi/Arad/raw/main/Documentation/1.png)
 
 ## How to Use It
 
@@ -23,8 +26,8 @@ That's it! Your device's system font should now be changed to Arad-Font.
 
 ## Credits
 
-Font by @MohamadDarvishi
-This Magisk module was created by @sajjad85gh.
+Font by [`Mohamad Darvishi`](https://github.com/MohamadDarvishi).
+This Magisk module was created by [`Sajjad Ghaderi`](https://github.com/sajjad85gh).
 
 ---
 
