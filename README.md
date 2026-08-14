@@ -26,8 +26,8 @@ That's it! Your device's system font should now be changed to Arad-Font.
 
 ## Credits
 
-Font by [`Mohamad Darvishi`](https://github.com/MohamadDarvishi).
-This Magisk module was created by [`Sajjad Ghaderi`](https://github.com/sajjad85gh).
+**Font** by [Mohamad Darvishi](https://github.com/MohamadDarvishi)  
+**Magisk Module** created by [Sajjad Ghaderi](https://github.com/sajjad85gh)
 
 ---
 
